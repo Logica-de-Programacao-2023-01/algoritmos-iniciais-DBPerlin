@@ -1,6 +1,6 @@
 1
 
-var n1 com 0
-var n2 com 0
+var n1 = 10
+var n2 = 6
 retorna a adição n1 + n2
 
