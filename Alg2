@@ -1,0 +1,6 @@
+2
+
+var tempCelsius = 0
+var tempF = 0
+(tempCelsius × 9/5) + 32 = tempF
+retorna resultado
