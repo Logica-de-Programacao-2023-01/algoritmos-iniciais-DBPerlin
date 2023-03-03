@@ -1,6 +1,9 @@
 1
 
-var n1 = 10
-var n2 = 6
-retorna a adição n1 + n2
+leia x
+leia y
+faça x + y = z
+escreva z
+
+
 
