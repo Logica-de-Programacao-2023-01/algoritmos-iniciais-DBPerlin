@@ -4,7 +4,7 @@ var n1 = x
 var n2 = y
 var n3 = z
 
-faça n1 + n2 + n3
-escreva resultado 
-faça resultado /3
-retorne
+faça n1 + n2 + n3 = x
+escreva x
+faça x /3 = y
+retorne y
