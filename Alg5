@@ -1,0 +1,11 @@
+5
+
+leia x
+leia y
+solicitar lista de elementos
+analisar elementos
+se o elemento for x:
+passe para o próximo elemento
+senão:
+pare o processo
+escreva y
