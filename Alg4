@@ -1,0 +1,8 @@
+4
+
+leia x
+var produto = 1
+para todo número de 1 até x faça:
+	produto = produto * numero_atual
+escreva produto
+
