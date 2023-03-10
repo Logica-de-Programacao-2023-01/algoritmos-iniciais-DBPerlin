@@ -1,11 +1,9 @@
 5
 
 leia x
-leia y
-solicitar lista de elementos
-analisar elementos
-se o elemento for x:
-passe para o próximo elemento
-senão:
-pare o processo
-escreva y
+leia lista
+para cada elemento da lista faça:
+	se o elemento for igual a x:
+		então escreva x 
+escreva "Não encontrei"
+
